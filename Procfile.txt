@@ -1,0 +1,1 @@
+worker: python qadamdas_bot_main.py
